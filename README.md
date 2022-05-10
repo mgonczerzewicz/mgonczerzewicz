@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mgonczerzewicz
 - 👀 I’m interested in coding, automobile and gaming
-- 🌱 I’m currently learning HTML & CSS & RWD
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning: HTML & CSS & RWD
+- 💞️ I’m looking new adventure in IT
 - 📫 How to reach me? Contact email: michalgon4@gmail.com 
 
 <!---
